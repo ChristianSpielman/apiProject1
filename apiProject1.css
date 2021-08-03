@@ -1,0 +1,14 @@
+#wrapper{
+    background-image: url('assets/kamil-s-J1IbThTQJoY-unsplash.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    border: black 20px;
+}
+
+.header{
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    font-family: 'Georama';
+}

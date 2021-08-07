@@ -2,8 +2,7 @@
     background-image: url('assets/kamil-s-J1IbThTQJoY-unsplash.jpg');
     background-size: cover;
     background-repeat: no-repeat;
-    height: 100vh;
-    border: black 20px;
+    /* height: 100vh; */
 }
 
 .header{
@@ -11,4 +10,5 @@
     color: white;
     text-align: center;
     font-family: 'Georama';
+    padding-top: 20px;
 }
